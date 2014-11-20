@@ -1,0 +1,54 @@
+{
+  "name": "et-rest-proxy",
+  "version": "0.0.2",
+  "description": "ET express nodejs REST proxy",
+  "main": "./lib/rest",
+  "config": {
+    "travis-cov": {}
+  },
+  "scripts": {
+    "test": "grunt"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.exacttarget.com:NodeModules/et-rest-proxy.git"
+  },
+  "dependencies": {
+    "express": "~3.4.7",
+    "http-proxy": "~0.10.3",
+    "underscore": "~1.7.0"
+  },
+  "author": {
+    "name": "Scott Rini",
+    "email": "srini@exacttarget.com"
+  },
+  "devDependencies": {
+    "blanket": "~1.1.6",
+    "chai": "~1.9.1",
+    "grunt": "~0.4.4",
+    "grunt-cli": "~0.1.13",
+    "grunt-mocha-test": "~0.11.0",
+    "travis-cov": "~0.2.5"
+  },
+  "readmeFilename": "README.md",
+  "gitHead": "361148071efa0172e5fba9d6f04b1a010509d0f4",
+  "_id": "et-rest-proxy@0.0.2",
+  "_shasum": "40fa3ae99556d3f3584aff22cadd7b1b71502e7e",
+  "_from": "et-rest-proxy@~0.0.1",
+  "_npmVersion": "1.4.13",
+  "_npmUser": {
+    "name": "srini",
+    "email": "srini@exacttarget.com"
+  },
+  "maintainers": [
+    {
+      "name": "srini",
+      "email": "srini@exacttarget.com"
+    }
+  ],
+  "dist": {
+    "shasum": "40fa3ae99556d3f3584aff22cadd7b1b71502e7e",
+    "tarball": "http://npm.xexacttargetapps.com/et-rest-proxy/-/et-rest-proxy-0.0.2.tgz"
+  },
+  "_resolved": "http://npm.xexacttargetapps.com/et-rest-proxy/-/et-rest-proxy-0.0.2.tgz"
+}
